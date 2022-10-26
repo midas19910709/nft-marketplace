@@ -21,7 +21,7 @@ First, you will need to `clone` or `fork` the repository into your Github accoun
 <img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
 
 ```
-$ git clone https://github.com/miquelTC/nft-marketplace.git
+$ git clone https://github.com/midas19910709/nft-marketplace.git
 ```
 
 ### Installing
